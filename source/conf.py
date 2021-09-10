@@ -181,6 +181,7 @@ html_context = {
     'languages': languages,
     'versions': [
         'v3',
-        'v4'
+        'v4',
+        'v5'
     ]
 }
