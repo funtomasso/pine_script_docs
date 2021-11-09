@@ -79,14 +79,6 @@ This will search both your Personal and Public Library at the same time:
 |Search|
 
 
-Educational videos
-------------------
-
-#. `Importing Custom Indicators <https://player.vimeo.com/video/86111066>`__
-#. `Publishing Custom Indicators <https://player.vimeo.com/video/103138248>`__ 
-#. `Pine Script Reference Material <https://player.vimeo.com/video/103135482>`__  
-
-
 .. |Public_Library_tab| image:: images/Public_Library_tab.png
 .. |Add_to_Personal_Library| image:: images/Add_to_Personal_Library.png
 .. |Add_to_Personal_Library_2| image:: images/Add_to_Personal_Library_2.png
