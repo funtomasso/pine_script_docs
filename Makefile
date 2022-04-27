@@ -22,4 +22,4 @@ syncpackages:
 	pip install --user -r requirements.txt
 
 install_tools:
-	pip install sphinx==1.8.5
+	pip install sphinx==1.8.6
