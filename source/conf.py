@@ -22,7 +22,7 @@ import pine_lexer
 # -- Project information -----------------------------------------------------
 
 project = u'Pine Script User Manual'
-copyright = u'2019, TradingView'
+copyright = str(datetime.now().year) + u', TradingView'
 author = u''
 
 # The short X.Y version
