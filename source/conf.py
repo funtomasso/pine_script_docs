@@ -17,6 +17,7 @@ import sys
 sys.path.insert(0, os.path.abspath('./modules'))
 
 from sphinx.highlighting import lexers
+from datetime import datetime
 import pine_lexer
 
 # -- Project information -----------------------------------------------------
