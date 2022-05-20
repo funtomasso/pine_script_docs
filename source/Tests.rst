@@ -34,7 +34,7 @@ Pine Script™ small logo with macro
 Tests
 =====
 
-Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext 
+Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext
 Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext 
 Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext Texttext 
 
